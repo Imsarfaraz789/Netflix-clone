@@ -1,5 +1,5 @@
 
-#Netflish Ui Clone Using HTML and CSS
+# Netflish Ui Clone Using HTML and CSS
 # Screenshots
 
 ![image](https://github.com/Imsarfaraz789/Netflix-clone/assets/90414691/5b3b5353-8ce2-4000-bb28-6a9f29a936ec)
